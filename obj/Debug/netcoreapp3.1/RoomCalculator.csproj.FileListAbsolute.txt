@@ -1,0 +1,11 @@
+C:\Users\mdubose\OneDrive - Knex\Documents\DB\RoomCalculator\obj\Debug\netcoreapp3.1\RoomCalculator.csprojAssemblyReference.cache
+C:\Users\mdubose\OneDrive - Knex\Documents\DB\RoomCalculator\obj\Debug\netcoreapp3.1\RoomCalculator.AssemblyInfoInputs.cache
+C:\Users\mdubose\OneDrive - Knex\Documents\DB\RoomCalculator\obj\Debug\netcoreapp3.1\RoomCalculator.AssemblyInfo.cs
+C:\Users\mdubose\OneDrive - Knex\Documents\DB\RoomCalculator\bin\Debug\netcoreapp3.1\RoomCalculator.exe
+C:\Users\mdubose\OneDrive - Knex\Documents\DB\RoomCalculator\bin\Debug\netcoreapp3.1\RoomCalculator.deps.json
+C:\Users\mdubose\OneDrive - Knex\Documents\DB\RoomCalculator\bin\Debug\netcoreapp3.1\RoomCalculator.runtimeconfig.json
+C:\Users\mdubose\OneDrive - Knex\Documents\DB\RoomCalculator\bin\Debug\netcoreapp3.1\RoomCalculator.runtimeconfig.dev.json
+C:\Users\mdubose\OneDrive - Knex\Documents\DB\RoomCalculator\bin\Debug\netcoreapp3.1\RoomCalculator.dll
+C:\Users\mdubose\OneDrive - Knex\Documents\DB\RoomCalculator\bin\Debug\netcoreapp3.1\RoomCalculator.pdb
+C:\Users\mdubose\OneDrive - Knex\Documents\DB\RoomCalculator\obj\Debug\netcoreapp3.1\RoomCalculator.dll
+C:\Users\mdubose\OneDrive - Knex\Documents\DB\RoomCalculator\obj\Debug\netcoreapp3.1\RoomCalculator.pdb
